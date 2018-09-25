@@ -7,5 +7,5 @@ Patient ID,Age,Gender,Primary site,Site of resected disease,Stage,Previous Treat
 6,61,M,Chest,Lung,IVM1b (T2aN0M1b),IFNα,Y,7,20
 7,28,F,Unknown,Cervical LN,IIIB (TxN1bM0),None,N/A,N/A,N/A
 8,63,M,Back,Skin - Satellite Nodule,IIIB (T3aN2cM0),None,N/A,N/A,N/A
-9,71,M,Shoulder,Axillary LN,IIIB (T2aN1bM0) IFNα,N/A,N/A,N/A
+9,71,M,Shoulder,Axillary LN,IIIB (T2aN1bM0),IFNα,N/A,N/A,N/A
 10,34,M,Right Foot,Femoral LN,IIIC (T4aN3M0),None,N/A,N/A,N/A
