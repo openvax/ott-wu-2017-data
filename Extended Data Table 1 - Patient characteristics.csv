@@ -2,8 +2,8 @@ Patient ID,Age,Gender,Primary site,Site of resected disease,Stage,Previous Treat
 1,26,M,Back,Axillary LN,IIIC (T3bN3M0),IFNα,N,N/A,N/A
 2,68,F,Back,Lung,IVM1b (T4aN0M1b),None,Y,6,28
 3,51,F,Left Calf,Skin - in transit,IIIC (T3bN2cM0),None,N,N/A,N/A
-4,56,M,Back,Axillary LN IIIC (T4bN2bM0),None,N,N/A,N/A
-5,58,F,Left Arm,Skin,IIIC(T2aN2cM0),None,N,N/A,N/A
+4,56,M,Back,Axillary LN,IIIC (T4bN2bM0),None,N,N/A,N/A
+5,58,F,Left Arm,Skin,IIIC (T2aN2cM0),None,N,N/A,N/A
 6,61,M,Chest,Lung,IVM1b (T2aN0M1b),IFNα,Y,7,20
 7,28,F,Unknown Cervical LN IIIB (TxN1bM0),None,N/A,N/A,N/A
 8,63,M,Back,Skin - Satellite Nodule IIIB (T3aN2cM0) None,N/A,N/A,N/A
