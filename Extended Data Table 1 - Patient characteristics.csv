@@ -1,7 +1,7 @@
 Patient ID,Age,Gender,Primary site,Site of resected disease,Stage,Previous Treatment,Recurrence after NeoVax Y/N,Weeks to recurrence on vaccine,Weeks to progression after vaccine
 1,26,M,Back,Axillary LN,IIIC (T3bN3M0),IFNα,N,N/A,N/A
 2,68,F,Back,Lung,IVM1b (T4aN0M1b),None,Y,6,28
-3,51,F,Left Calf,Skin - in transit,IIIC (T3bN2cM0),None,N,N/A,N/A
+3,51,F,Left Calf,Skin,IIIC (T3bN2cM0),None,N,N/A,N/A
 4,56,M,Back,Axillary LN,IIIC (T4bN2bM0),None,N,N/A,N/A
 5,58,F,Left Arm,Skin,IIIC (T2aN2cM0),None,N,N/A,N/A
 6,61,M,Chest,Lung,IVM1b (T2aN0M1b),IFNα,Y,7,20
