@@ -3,7 +3,7 @@ Machine readable data from [An Immunogenic Personal Neoantigen Vaccine for Melan
 
 ## Supplementary information 4
 
-*Summary of expression and class I prediction related to the immunizing peptides for Patients 1-6*
+Summary of expression and class I prediction related to the immunizing peptides for Patients 1-6
 
 Columns:
 
@@ -27,7 +27,7 @@ Columns:
 
 ## Supplementary information 5
 
-*Summary of class II prediction related to the immunizing peptides for Patients 1-6*
+Summary of class II prediction related to the immunizing peptides for Patients 1-6
 
 Columns:
 
@@ -43,16 +43,16 @@ Columns:
 
 ## Supplementary information 3
 
-*Summary of the number of identified somatic mutations, predicted HLA binders and synthesized immunizing peptides for Patients 1-10*
+Summary of the number of identified somatic mutations, predicted HLA binders and synthesized immunizing peptides for Patients 1-10
 
 Columns:
 
-* Patient
-* Total mutations
-* Mutations with more than 1 binder
-* Binders predicted (binding affinity <500nM)
-* HLA predicted epitopes after filtering
-* Number of peptides included in vaccine
+    * Patient
+    * Total mutations
+    * Mutations with more than 1 binder
+    * Binders predicted (binding affinity <500nM)
+    * HLA predicted epitopes after filtering
+    * Number of peptides included in vaccine
 
 ## Extended Data Table 1
 
