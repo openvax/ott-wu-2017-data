@@ -56,7 +56,7 @@ Columns:
 
 ## Extended Data Table 1
 
-*Patient characteristics*
+Patient characteristics
 
 ## Extended Data Figure 5
 
