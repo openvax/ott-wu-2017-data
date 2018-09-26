@@ -1,6 +1,10 @@
 # ott-wu-2017-data
 Machine readable data from [An Immunogenic Personal Neoantigen Vaccine for Melanoma Patients](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5577644/)
 
+## Supplementary information 3
+
+Summary of the number of identified somatic mutations, predicted HLA binders and synthesized immunizing peptides for Patients 1-10
+
 ## Supplementary information 4
 
 Summary of expression and class I prediction related to the immunizing peptides for Patients 1-6
@@ -41,9 +45,6 @@ Columns:
     * Prediction method
     * Percentile rank
 
-## Supplementary information 3
-
-Summary of the number of identified somatic mutations, predicted HLA binders and synthesized immunizing peptides for Patients 1-10
 
 Columns:
 
