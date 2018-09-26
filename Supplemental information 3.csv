@@ -1,0 +1,11 @@
+Patient,Total mutations,Mutations with more than 1 binder,Binders predicted (binding affinity <500nM),HLA predicted epitopes after filtering,Number of peptides included in vaccine
+1,179,47,107,60,13
+2,1887,273,399,220,17
+3,820,221,495,91,14
+4,1995,530,1099,399,14
+5,728,181,439,152,20
+6,3920,560,856,293,20
+7,953,265,517,71,17
+8,489,146,302,79,14
+9,51,5,7,NA,NA
+10,70,10,19,NA,NA
